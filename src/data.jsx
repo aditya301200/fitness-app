@@ -178,7 +178,7 @@ export const plans = [
     id: 1,
     name: "Silver Package",
     desc: "This package is perfect for beginners who need constant help",
-    price: 29.99,
+    price: 1000,
     features: [
       { feature: "First Feature", available: true },
       { feature: "Second Feature", available: true },
@@ -199,7 +199,7 @@ export const plans = [
     id: 2,
     name: "Gold Package",
     desc: "This is the perfect package for beginners who know what their doing",
-    price: 49.99,
+    price: 2000,
     features: [
       { feature: "First Feature", available: true },
       { feature: "Second Feature", available: true },
@@ -220,7 +220,7 @@ export const plans = [
     id: 3,
     name: "Platinum Package",
     desc: "This package is perfect for busy people who need home service",
-    price: 89.99,
+    price: 3000,
     features: [
       { feature: "First Feature", available: true },
       { feature: "Second Feature", available: true },
