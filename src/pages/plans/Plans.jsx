@@ -25,7 +25,7 @@ const Plans = () => {
               >
                 <h3>{name}</h3>
                 <small>{desc}</small>
-                <h1>{`Rs. ${price}`}</h1>
+                <h1>{`₹${price}`}</h1>
                 <h2>/mo</h2>
                 <h4>Features</h4>
                 {features.map(({ feature, available }, index) => {
